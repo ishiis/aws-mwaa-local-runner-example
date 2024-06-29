@@ -1,0 +1,4 @@
+[submodule "aws-mwaa-local-runner"]
+	path = aws-mwaa-local-runner
+	url = git@github.com:aws/aws-mwaa-local-runner.git
+	branch = v2.8.1
